@@ -3,7 +3,29 @@
     {
       "id": 1,
       "name": "Arthur Oliveira",
-      "password": "arthuritoReiDelas"
+      "password": "arthuritoReiDelas",
+      "notifications": [
+        {
+          "id": 1,
+          "title": "Pedido 1",
+          "content": "Hamburguer"
+        },
+        {
+          "id": 2,
+          "title": "Pedido 2",
+          "content": "Pizza"
+        },
+        {
+          "id": 3,
+          "title": "Pedido 3",
+          "content": "Suco"
+        }
+      ]
+    },
+    {
+      "name": "hugu",
+      "password": "hugu",
+      "id": 2
     }
   ]
 }

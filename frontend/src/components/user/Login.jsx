@@ -14,7 +14,7 @@ const initialState = {
     list: []
 }
 
-export default class UserCrud extends Component {
+export default class Login extends Component {
     state = { ...initialState }
 
     componentWillMount() {
